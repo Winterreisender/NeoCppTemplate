@@ -1,0 +1,16 @@
+[
+{
+  "directory": "c:\\Home\\Code\\Github\\NeoCppTemplate",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/fp:fast", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\NeoCppTemplate\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+},
+{
+  "directory": "c:\\Home\\Code\\Github\\NeoCppTemplate",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/fp:fast", "/DBOOST_ALL_NO_LIB", "/EHsc", "/IC:\\Users\\guest_3slo32w\\AppData\\Local\\.xmake\\packages\\b\\boost\\1.81.0\\a12f6149615d416fb16c977e1113e9ad\\include", "/DNDEBUG", "/Fobuild\\.objs\\test\\windows\\x64\\release\\test\\boosttest.cpp.obj", "test\\boosttest.cpp"],
+  "file": "test\\boosttest.cpp"
+},
+{
+  "directory": "c:\\Home\\Code\\Github\\NeoCppTemplate",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/fp:fast", "/DBOOST_ALL_NO_LIB", "/EHsc", "/IC:\\Users\\guest_3slo32w\\AppData\\Local\\.xmake\\packages\\b\\boost\\1.81.0\\a12f6149615d416fb16c977e1113e9ad\\include", "/DNDEBUG", "/Fobuild\\.objs\\test\\windows\\x64\\release\\test\\test.cpp.obj", "test\\test.cpp"],
+  "file": "test\\test.cpp"
+}]
